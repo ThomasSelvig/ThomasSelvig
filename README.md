@@ -1,6 +1,14 @@
 ## im proud of
-- pinned repos
-- visma security hall of fame 2020
+
+### pinned repos
+1. https://github.com/ThomasSelvig/Reddit-Interface
+2. https://github.com/ThomasSelvig/salarytracker
+3. https://github.com/ThomasSelvig/url_shortener
+4. https://github.com/ThomasSelvig/WinAPIClient
+5. https://github.com/ThomasSelvig/3D-Maze
+6. https://github.com/ThomasSelvig/cligrafing
+
+### visma security hall of fame 2020
   - https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
   - https://e24.no/teknologi/i/lAk0JL/oscar-17-og-thomas-17-avdekket-sikkerhetshullet-i-vismas-nye-it-system-amatoermessig
   - https://www.digi.no/artikler/oscar-17-og-thomas-17-avslorte-alvorlig-sikkerhetshull-i-visma-in-school-da-satte-visma-krisestab/483828?key=a4MPMxJy
