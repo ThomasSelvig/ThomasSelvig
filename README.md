@@ -1,16 +1,19 @@
-### Hi there 👋
+## im proud of
+- pinned repos
+- visma security hall of fame 2020
+  - https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
+  - https://e24.no/teknologi/i/lAk0JL/oscar-17-og-thomas-17-avdekket-sikkerhetshullet-i-vismas-nye-it-system-amatoermessig
+  - https://www.digi.no/artikler/oscar-17-og-thomas-17-avslorte-alvorlig-sikkerhetshull-i-visma-in-school-da-satte-visma-krisestab/483828?key=a4MPMxJy
 
 <!--
-**ThomasSelvig/ThomasSelvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://www.nrk.no/osloogviken/3100-fikk-sms-fra-fylkeskommunen-med-beskjed-om-a-folge-twitter-kontoen-til-oscar-_17_-1.15036946
 -->
+
+## more im proud of
+- https://github.com/ThomasSelvig/astrofysikk
+- https://github.com/ThomasSelvig/MazeAlgo
+- https://github.com/ThomasSelvig/async-port-scanner
+- https://github.com/ThomasSelvig/vanta_audio_wallpaper
+- https://github.com/ThomasSelvig/Python-Minecraft-DJ
+- https://github.com/ThomasSelvig/notepad_pymem_pointers
+- https://github.com/ThomasSelvig/Ruter-reise-discord
