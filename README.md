@@ -25,5 +25,6 @@ https://www.nrk.no/osloogviken/3100-fikk-sms-fra-fylkeskommunen-med-beskjed-om-a
 - https://github.com/ThomasSelvig/Python-Minecraft-DJ
 - https://github.com/ThomasSelvig/computercraft_blockly_ws
 - https://github.com/ThomasSelvig/Itslearning-anti-surveillance
+- https://ingring.github.io/scrollytelling_sanitation/ [(original group repository)](https://github.com/hennamaija/Assignment2) [(repo 2)](https://github.com/ingring/scrollytelling_sanitation)
 - https://github.com/ThomasSelvig/notepad_pymem_pointers
 - https://github.com/ThomasSelvig/Ruter-reise-discord
