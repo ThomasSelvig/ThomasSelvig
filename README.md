@@ -24,5 +24,6 @@ https://www.nrk.no/osloogviken/3100-fikk-sms-fra-fylkeskommunen-med-beskjed-om-a
 - https://github.com/ThomasSelvig/vanta_audio_wallpaper
 - https://github.com/ThomasSelvig/Python-Minecraft-DJ
 - https://github.com/ThomasSelvig/computercraft_blockly_ws
+- https://github.com/ThomasSelvig/Itslearning-anti-surveillance
 - https://github.com/ThomasSelvig/notepad_pymem_pointers
 - https://github.com/ThomasSelvig/Ruter-reise-discord
