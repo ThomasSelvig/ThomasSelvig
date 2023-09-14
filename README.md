@@ -4,7 +4,7 @@
 1. https://github.com/ThomasSelvig/Reddit-Interface
 2. https://github.com/ThomasSelvig/salarytracker
 3. https://github.com/ThomasSelvig/url_shortener
-4. https://github.com/ThomasSelvig/WinAPIClient
+4. https://github.com/ThomasSelvig/Itslearning-anti-surveillance
 5. https://github.com/ThomasSelvig/3D-Maze
 6. https://github.com/ThomasSelvig/cligrafing
 
@@ -24,7 +24,7 @@ https://www.nrk.no/osloogviken/3100-fikk-sms-fra-fylkeskommunen-med-beskjed-om-a
 - https://github.com/ThomasSelvig/vanta_audio_wallpaper
 - https://github.com/ThomasSelvig/Python-Minecraft-DJ
 - https://github.com/ThomasSelvig/computercraft_blockly_ws
-- https://github.com/ThomasSelvig/Itslearning-anti-surveillance
+- https://github.com/ThomasSelvig/WinAPIClient
 - https://ingring.github.io/scrollytelling_sanitation/ [(original group repository)](https://github.com/hennamaija/Assignment2) [(repo 2)](https://github.com/ingring/scrollytelling_sanitation)
 - https://github.com/ThomasSelvig/notepad_pymem_pointers
 - https://github.com/ThomasSelvig/Ruter-reise-discord
